@@ -64,4 +64,4 @@
 </p>
 
 - 💬 Ask me about **DevOps**
-- 📫 How to reach me **[azharism.007@gmail.com](mailto:azharism73@gmail.com)**
+- 📫 How to reach me **[azharism.73@gmail.com](mailto:azharism73@gmail.com)**
